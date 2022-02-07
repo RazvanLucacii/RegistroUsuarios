@@ -1,0 +1,4 @@
+servidor=localhost
+usuario=ajaxbd
+pass=ajaxbd
+basededatos=ajaxbd
